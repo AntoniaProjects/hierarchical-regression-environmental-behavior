@@ -43,6 +43,9 @@ Which psychological and sociodemographic factors predict pro-environmental behav
 - The final regression model explained 54% of the variance in pro-environmental behavior (R² = .54).
 - Age and educational level emerged as significant positive predictors.
 - Biospheric values showed significant effects before controlling for sociodemographic variables.
+## Hierarchical Regression Results
+
+![Regression Table](figures/regression_table.png)
 ## My Contribution
 
 My contribution to the project included:
