@@ -36,7 +36,7 @@ Which psychological and sociodemographic factors predict pro-environmental behav
 
 ### Model 2
 - Age
-- Biological sex
+- Gender 
 - Educational level
 ## Key Findings
 
