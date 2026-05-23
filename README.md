@@ -44,7 +44,7 @@ Which psychological and sociodemographic factors predict pro-environmental behav
 
 - Age and educational level emerged as significant positive predictors of pro-environmental behavior.
 
-- Biospheric values showed significant effects before controlling for sociodemographic variables, highlighting the importance of environmental value orientation.
+- Biospheric values showed significant effects before controlling for sociodemographic variables, highlighting the importance of environmental values.
 ## Hierarchical Regression Results
 
 ![Regression Table](figures/regression_table.png)
